@@ -9,6 +9,7 @@ A community driven list of useful IOTA library, articles and videos. This is not
     - [Blogs](#blogs--sites)
     - [Articles](#articles)
     - [Videos](#videos)
+    - [Wallets](#wallets)
     - [Developers](#developers)
 - [Contributing](#contributing)
 
@@ -60,6 +61,16 @@ A community driven list of useful IOTA library, articles and videos. This is not
 * [Boxmining](https://www.youtube.com/watch?v=UwEp5cexTJE) - What is IOTA in a Nutshell
 * [Ivan on Tech](https://www.youtube.com/watch?v=C_Y4KykzCaI) - IOTA and Machine to Machine Economy | Programmer explains
 * [Louis Thomas](https://www.youtube.com/watch?v=FBGFIQPZR6A) - IOTA Cryptocurrency Review
+
+## Wallets
+
+*IOTA Wallets*
+
+* [Desktop Wallet](https://github.com/iotaledger/wallet) - IOTA - Desktop Wallet
+* [Web Wallet](https://github.com/danilind/iota-web-wallet) - IOTA - Web Wallet
+* [Android Wallet](https://github.com/iotaledger/android-wallet-app) - IOTA - Android Wallet
+* [IOS Wallet](https://github.com/l3wi/iotaMobile) - IOTA - IOS Wallet
+
 
 ## Developers
 
