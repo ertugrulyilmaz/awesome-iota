@@ -68,13 +68,9 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [What is IOTA?](https://www.youtube.com/watch?v=yj9j_a_ACB4) - IOTA - What is IOTA? What is the tangle technology? The Bitcoin killer?
 * [Boxmining](https://www.youtube.com/watch?v=UwEp5cexTJE) - What is IOTA in a Nutshell
 * [Ivan on Tech](https://www.youtube.com/watch?v=C_Y4KykzCaI) - IOTA and Machine to Machine Economy | Programmer explains
-* [Louis Thomas](https://www.youtube.com/watch?v=FBGFIQPZR6A) - IOTA Cryptocurrency Review
 * [Introducing IOTA](https://www.youtube.com/watch?v=FBGFIQPZR6A) - Introducing IOTA - new crypto
-* [IOTA wallet](https://www.youtube.com/watch?v=FBGFIQPZR6A) - How to setup your IOTA wallet
 * [Next Generation Blockchain](https://www.youtube.com/watch?v=Wbhkao9Lobk) - IOTA - Next Generation Blockchain
-* [Programmer Explains](https://www.youtube.com/watch?v=C_Y4KykzCaI) - IOTA Programmer Explains
-* [What is IOTA in a Nutshell](https://www.youtube.com/watch?v=UwEp5cexTJE&t=16s) - What is IOTA in a Nutshell
-* [New Crypto](https://www.youtube.com/watch?v=Pn64REtS2gY&t=15s) - New Crypto IOTA
+* [New Crypto](https://www.youtube.com/watch?v=Pn64REtS2gY) - New Crypto IOTA
 * [Discover IOTA](https://www.youtube.com/watch?v=h09z2N0MtuQ) - Discover IOTA
 * [General Overview for Beginners](https://www.youtube.com/watch?v=2azqzNKERMY) - General Overview for Beginners
 * [This is IOTA](https://www.youtube.com/watch?v=LyVLq13WfsE) - This is IOTA
