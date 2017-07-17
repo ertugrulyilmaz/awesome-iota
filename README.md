@@ -20,7 +20,12 @@ A community driven list of useful IOTA library, articles and videos. This is not
 
 * [IOTA](https://iota.org) - Next Generation Blockchain
 * [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) - The Tangle
+* [Wikipedia](https://en.wikipedia.org/wiki/IOTA_(Distributed_Ledger_Technology)) - https://en.wikipedia.org/wiki/IOTA_(Distributed_Ledger_Technology)
 * [A Primer on IOTA](https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621) - A Primer on IOTA (with Presentation)
+* [IOTA China](http://iotachina.com/) - IOTA China 首页
+* [IOTA Italia](http://iotaitalia.com/) - IOTA Italia
+* [IOTA Korea](http://blog.naver.com/iotakorea) - IOTA 한국
+* [IOTA Japan](http://lhj.hatenablog.jp/entry/iota) - IOTA 日本
 * [IOTA on Reddit](https://www.reddit.com/r/Iota/)
 
 ## Blogs & Sites
@@ -28,14 +33,11 @@ A community driven list of useful IOTA library, articles and videos. This is not
 *Blogs & Sites about IOTA*
 
 * [IOTA Blog](https://blog.iota.org) - Official Blog of IOTA
+* [All About IOTA](https://aboutiota.info/) - All About IOTA
 * [IOTA Support](http://www.iotasupport.com) - IOTA Support - Your guide to the world of IOTA
 * [The Tangler](http://www.tangleblog.com) - No Bells And Whistles, Just Information
-* [IOTA Cool](http://iota.cool) - IOTA cool tools
 * [IOTA Steemit Trending](https://steemit.com/trending/iota) - IOTA Steemit
-* [IOTA Tools](http://iota.tools) - IOTA tools
-* [IOTA Price](http://iotaprice.com) - IOTA Price
 * [TrustedIoTAlliance](https://www.trustediot.org) - Securing IoT products with Blockchain.
-* [Wikipedia](https://www.trustediot.org) - https://en.wikipedia.org/wiki/IOTA_(Distributed_Ledger_Technology)
 * [IOTA Tips](http://www.iota.tips) - IOTA Tips
 * [IOTA Token](http://iotatoken.io) - IOTA DECENTRALISED INTERNET-OF-THINGS TOKEN
 * [IOTA News](http://iota.news) - IOTA News
@@ -52,6 +54,7 @@ A community driven list of useful IOTA library, articles and videos. This is not
 * [Eric Wall](https://medium.com/@ercwl/iota-is-centralized-6289246e7b4d) - IOTA is centralized
 * [energycentral.com](https://medium.com/@ercwl/iota-is-centralized-6289246e7b4d) - Genuine Peer-to-Peer Processing Makes IOTA Tangle What Bitcoin Blockchains Should Be
 * [constellationr.com](https://www.constellationr.com/blog-news/blockchain-or-distributed-ledger-defining-requirement-not-technology-0) - Blockchain or Distributed Ledger? Defining the requirement, not the technology
+* [IOTA Ecosystem Fund](https://blog.iota.org/iota-ecosystem-fund-2-million-f6ade6a4d8ba) - IOTA Ecosystem Fund ($2 million)
 
 ## Videos
 
@@ -76,6 +79,11 @@ A community driven list of useful IOTA library, articles and videos. This is not
 *3rd party tools on IOTA*
 
 * [Tangle Blox](https://tangle.blox.pm) - IOTA Tangle
+* [IOTA Tools](http://iota.tools) - IOTA tools
+* [IOTA Price](http://iotaprice.com) - IOTA Price
+* [IOTA Cool](http://iota.cool) - IOTA cool tools
+* [IOTA Balance Lookup](http://iotabalance.com/) - Minimalist IOTA Balance Lookup
+* [Tangle Explorer](http://tangler.org/) - Tangle Explorer
 
 ## Developers
 
