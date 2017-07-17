@@ -69,6 +69,21 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [Boxmining](https://www.youtube.com/watch?v=UwEp5cexTJE) - What is IOTA in a Nutshell
 * [Ivan on Tech](https://www.youtube.com/watch?v=C_Y4KykzCaI) - IOTA and Machine to Machine Economy | Programmer explains
 * [Louis Thomas](https://www.youtube.com/watch?v=FBGFIQPZR6A) - IOTA Cryptocurrency Review
+* [Introducing IOTA](https://www.youtube.com/watch?v=FBGFIQPZR6A) - Introducing IOTA - new crypto
+* [IOTA wallet](https://www.youtube.com/watch?v=FBGFIQPZR6A) - How to setup your IOTA wallet
+* [Next Generation Blockchain](https://www.youtube.com/watch?v=Wbhkao9Lobk) - IOTA - Next Generation Blockchain
+* [Programmer Explains](https://www.youtube.com/watch?v=C_Y4KykzCaI) - IOTA Programmer Explains
+* [What is IOTA in a Nutshell](https://www.youtube.com/watch?v=UwEp5cexTJE&t=16s) - What is IOTA in a Nutshell
+* [New Crypto](https://www.youtube.com/watch?v=Pn64REtS2gY&t=15s) - New Crypto IOTA
+* [Discover IOTA](https://www.youtube.com/watch?v=h09z2N0MtuQ) - Discover IOTA
+* [General Overview for Beginners](https://www.youtube.com/watch?v=2azqzNKERMY) - General Overview for Beginners
+* [This is IOTA](https://www.youtube.com/watch?v=LyVLq13WfsE) - This is IOTA
+* [IOTA - The Next Level](https://www.youtube.com/watch?v=cM_XhH6N2zc) - IOTA - The Next Level
+* [What is IOT?](https://www.youtube.com/watch?v=S64s3GrZlSM) - What is IOT?
+* [How it works: The IOT](https://www.youtube.com/watch?v=QSIPNhOiMoE) - How it works: The IOT
+* [Welcome to the IOTA universe](https://www.youtube.com/watch?v=n5sEevHBLN8) - Welcome to the IOTA universe
+* [IOTA coin](https://www.youtube.com/watch?v=SUNkglQhC8Y) - IOTA coin
+* [IOTA ecosystem fund](https://www.youtube.com/watch?v=7RLIIKr4CQY) - IOTA ecosystem fund
 
 ## Wallets
 
@@ -78,6 +93,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [Web Wallet](https://github.com/danilind/iota-web-wallet) - IOTA - Web Wallet
 * [Android Wallet](https://github.com/iotaledger/android-wallet-app) - IOTA - Android Wallet
 * [IOS Wallet](https://github.com/l3wi/iotaMobile) - IOTA - IOS Wallet
+* [Paper Wallet](https://arancauchi.github.io/IOTA-Paper-Wallet) - IOTA Paper Wallet
 
 ## Tools
 
