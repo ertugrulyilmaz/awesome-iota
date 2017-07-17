@@ -6,10 +6,11 @@ A community driven list of useful IOTA library, articles and videos. This is not
 
 - [Awesome IOTA](#awesome-iota)
     - [About](#about)
-    - [Blogs](#blogs--sites)
+    - [Blogs](#blogs--sites)    
     - [Articles](#articles)
     - [Videos](#videos)
     - [Wallets](#wallets)
+    - [Tools](#tools)
     - [Developers](#developers)
 - [Contributing](#contributing)
 
@@ -38,12 +39,6 @@ A community driven list of useful IOTA library, articles and videos. This is not
 * [IOTA Tips](http://www.iota.tips) - IOTA Tips
 * [IOTA Token](http://iotatoken.io) - IOTA DECENTRALISED INTERNET-OF-THINGS TOKEN
 * [IOTA News](http://iota.news) - IOTA News
-
-## Tools
-
-*3rd party tools on IOTA*
-
-* [Tangle Blox](https://tangle.blox.pm) - IOTA Tangle
 
 ## Articles
 
@@ -76,6 +71,11 @@ A community driven list of useful IOTA library, articles and videos. This is not
 * [Android Wallet](https://github.com/iotaledger/android-wallet-app) - IOTA - Android Wallet
 * [IOS Wallet](https://github.com/l3wi/iotaMobile) - IOTA - IOS Wallet
 
+## Tools
+
+*3rd party tools on IOTA*
+
+* [Tangle Blox](https://tangle.blox.pm) - IOTA Tangle
 
 ## Developers
 
