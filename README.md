@@ -2,7 +2,7 @@ Awesome IOTA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29
 =============
 
 
-A community driven list of useful IOTA library, articles and videos. This is not a catalog of all the content, just a starting point for your explorations. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+A community driven list of useful IOTA blogs, articles, videos and tools. This is not a catalog of all the content, just a starting point for your explorations. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 - [Awesome IOTA](#awesome-iota)
     - [About](#about)
@@ -17,6 +17,10 @@ A community driven list of useful IOTA library, articles and videos. This is not
 ## About
 
 *What is IOTA?*
+
+**IOTA** is a revolutionary new transactional settlement and data integrity layer for the Internet of Things. It’s based on a new distributed ledger architecture, the **Tangle**, which overcomes the inefficiencies of current **Blockchain** designs and introduces a new way of reaching consensus in a **decentralized peer-to-peer system**. For the first time ever, through IOTA people can transfer money without any fees. This means that even infinitesimally small nanopayments can be made through IOTA.
+
+**IOTA** is the missing puzzle piece for **the Machine Economy** to fully emerge and reach its desired potential. We envision IOTA to be the public, permissionless backbone for the Internet of Things that enables true interoperability between all devices.
 
 * [IOTA](https://iota.org) - Next Generation Blockchain
 * [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) - The Tangle
