@@ -45,6 +45,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [IOTA Tips](http://www.iota.tips) - IOTA Tips
 * [IOTA Token](http://iotatoken.io) - IOTA DECENTRALISED INTERNET-OF-THINGS TOKEN
 * [IOTA News](http://iota.news) - IOTA News
+* [レオンハルトジャパン公式BLOG](http://lhj.hatenablog.jp/entry/iota) - IOTA 日本語情報サイト
 
 ## Articles
 
