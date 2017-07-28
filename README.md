@@ -100,7 +100,8 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [IOTA Price](http://iotaprice.com) - IOTA Price
 * [IOTA Cool](http://iota.cool) - IOTA cool tools
 * [IOTA Balance Lookup](http://iotabalance.com/) - Minimalist IOTA Balance Lookup
-* [Tangle Explorer](http://tangler.org/) - Tangle Explorer
+* [tangler.org](http://tangler.org/) - IOTA Tangle Explorer
+* [codebuffet.co](https://iota.codebuffet.co/) - IOTA Tangle Explorer
 
 ## Developers
 
