@@ -102,6 +102,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [IOTA Balance Lookup](http://iotabalance.com/) - Minimalist IOTA Balance Lookup
 * [tangler.org](http://tangler.org/) - IOTA Tangle Explorer
 * [codebuffet.co](https://iota.codebuffet.co/) - IOTA Tangle Explorer
+* [iotasear.ch](https://iotasear.ch) - IOTA Tangle Explorer
 
 ## Developers
 
