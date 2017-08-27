@@ -103,6 +103,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [tangler.org](http://tangler.org/) - IOTA Tangle Explorer
 * [codebuffet.co](https://iota.codebuffet.co/) - IOTA Tangle Explorer
 * [iotasear.ch](https://iotasear.ch) - IOTA Tangle Explorer
+* [thetangle.org](https://thetangle.org/) - IOTA Tangle Explorer
 
 ## Developers
 
