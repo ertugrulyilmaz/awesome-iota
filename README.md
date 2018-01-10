@@ -109,6 +109,8 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 
 *Links to developing IOTA Applications*
 
+### Official by the IOTA Foundation
+
 * [Documentation](https://iota.readme.io/v1.1.0/docs) - Documentation of IOTA
 * [The IOTA Developer Hub](https://iota.readme.io) - The IOTA Developer Hub
 * [Get Started with IOTA](https://learn.iota.org) - The best way to learn more about IOTA through interactive developer tutorials
@@ -120,6 +122,37 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [iota.lib.go](https://github.com/iotaledger/iota.lib.go) - gIOTA: The IOTA Go API Library
 * [iota.lib.java](https://github.com/iotaledger/iota.lib.java) - JOTA library is a simple Java wrapper around IOTA
 * [curl.lib.js](https://github.com/iotaledger/curl.lib.js) - IOTA Proof-of-Work algorithm ported to Javascript to work in WebGL2-enabled browsers
+
+### Non Official
+
+#### Libraries
+* [.NET library](https://github.com/Borlay/Borlay.Iota.Library) - .NET library written in C#
+* [IOTA C++ library](https://github.com/thibault-martinez/iota.lib.cpp) A IRI client library in C++ for IRI
+* [IOTA address utilities](https://github.com/pRizz/IOTA-Address-Utilities) A library to working with IOTA addresses
+
+#### Managment
+
+* [IOTA peer manager](https://github.com/akashgoswami/ipm) - A peer (neighbors) management WebUI for IRI 
+* [Open IOTA](https://github.com/pRizz/open-iota) A open tangle explorer web app
+* [IOTA Search](https://github.com/eukaryote31/iotasearch) A web app for exploring addresses, transactions etc.
+* [IOTA dashboard](https://github.com/lsquires/iota-dashboard) A tangle visualiser
+* [IOTA transaction spammer](https://github.com/pRizz/iota-transaction-spammer-webapp) A web app transaction spammer
+* [IOTA Reattacher](https://github.com/normpad/IOTA-Reattacher) A app which finds valid transactions and reattach them
+* [IOTA Paper wallet](https://github.com/arancauchi/IOTA-Paper-Wallet) A generator for a IOTA paper wallet
+* [IOTA full-node CLI](https://github.com/nazarimilad/iota-node) A CLI to manage a full-node
+
+#### Payment
+* [PayIOTA](https://github.com/lacicloud/payiota) A IOTA pay-gateway for PHP
+
+#### Deployment
+* [Docker IRI full-node](https://github.com/bluedigits/iota-node) A dockerized full-node
+* [IRI playbook](https://github.com/nuriel77/iri-playbook) A ansible playbook to setup a IRI full-node
+
+#### Other
+* [Bolero](https://github.com/SemkoDev/bolero.fun) A cross-platform full-node
+* [CarrIOTA Nelson](https://github.com/SemkoDev/nelson.cli) Neighbor discovery for a IRI full-node
+* [IOTAtipbot](https://github.com/normpad/iotatipbot) A tip bot for reddit
+
 
 # Contributing
 
