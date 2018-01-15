@@ -152,6 +152,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [Bolero](https://github.com/SemkoDev/bolero.fun) A cross-platform full-node
 * [CarrIOTA Nelson](https://github.com/SemkoDev/nelson.cli) Neighbor discovery for a IRI full-node
 * [IOTAtipbot](https://github.com/normpad/iotatipbot) A tip bot for reddit
+* [Tanglestash](https://github.com/loehnertz/Tanglestash) An algorithm to persist any file onto the tangle of IOTA
 
 
 # Contributing
