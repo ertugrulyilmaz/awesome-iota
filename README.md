@@ -154,7 +154,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [IOTAtipbot](https://github.com/normpad/iotatipbot) A tip bot for reddit
 * [Tanglestash](https://github.com/loehnertz/Tanglestash) An algorithm to persist any file onto the tangle of IOTA
 * [Iota-Auth](https://github.com/thedewpoint/iotauth) 2FA built on the Iota Tangle
-* [Iota-Basic](https://github.com/thedewpoint/iota-basic) Basic implementation of Iota api allowing easy interactions with the network
+* [Iota-Basic](https://github.com/thedewpoint/iota-basic) Basic implementation of Iota api allowing easy interactions with the network (in progress)
 
 
 
