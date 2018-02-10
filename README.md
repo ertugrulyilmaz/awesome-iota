@@ -89,7 +89,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [Web Wallet](https://github.com/danilind/iota-web-wallet) - IOTA - Web Wallet
 * [Android Wallet](https://github.com/iotaledger/android-wallet-app) - IOTA - Android Wallet
 * [IOS Wallet](https://github.com/l3wi/iotaMobile) - IOTA - IOS Wallet
-* [Paper Wallet](https://arancauchi.github.io/IOTA-Paper-Wallet) - IOTA Paper Wallet
+
 
 ## Tools
 
