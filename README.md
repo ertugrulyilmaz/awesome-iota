@@ -138,7 +138,6 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [IOTA dashboard](https://github.com/lsquires/iota-dashboard) A tangle visualiser
 * [IOTA transaction spammer](https://github.com/pRizz/iota-transaction-spammer-webapp) A web app transaction spammer
 * [IOTA Reattacher](https://github.com/normpad/IOTA-Reattacher) A app which finds valid transactions and reattach them
-* [IOTA Paper wallet](https://github.com/arancauchi/IOTA-Paper-Wallet) A generator for a IOTA paper wallet
 * [IOTA full-node CLI](https://github.com/nazarimilad/iota-node) A CLI to manage a full-node
 
 #### Payment
