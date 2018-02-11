@@ -128,6 +128,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [.NET library](https://github.com/Borlay/Borlay.Iota.Library) - .NET library written in C#
 * [IOTA C++ library](https://github.com/thibault-martinez/iota.lib.cpp) A IRI client library in C++ for IRI
 * [IOTA address utilities](https://github.com/pRizz/IOTA-Address-Utilities) A library to working with IOTA addresses
+* [IOTA C Library](https://github.com/th0br0/iota.lib.c) A C library to generate seeds, addresses etc.
 
 #### Managment
 
