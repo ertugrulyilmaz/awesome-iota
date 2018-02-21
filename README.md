@@ -56,7 +56,6 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [blog.iota.org](https://blog.iota.org/automating-machine-transactions-and-building-trust-in-the-4th-industrial-revolution-d3219a157396) - Automating Machine Transactions and Building Trust in the 4th Industrial Revolution
 * [satoshiwatch.com](https://satoshiwatch.com/coins/iota/in-depth/iota-the-winner-takes/) - The Winner Takes it All
 * [Crypto Judgement](https://medium.com/@cryptojudgement/iota-promise-of-a-bright-crypto-future-6b7517349e32) - IOTA: Promise of a bright crypto-future
-* [Eric Wall](https://medium.com/@ercwl/iota-is-centralized-6289246e7b4d) - IOTA is centralized
 * [energycentral.com](https://medium.com/@ercwl/iota-is-centralized-6289246e7b4d) - Genuine Peer-to-Peer Processing Makes IOTA Tangle What Bitcoin Blockchains Should Be
 * [constellationr.com](https://www.constellationr.com/blog-news/blockchain-or-distributed-ledger-defining-requirement-not-technology-0) - Blockchain or Distributed Ledger? Defining the requirement, not the technology
 * [IOTA Ecosystem Fund](https://blog.iota.org/iota-ecosystem-fund-2-million-f6ade6a4d8ba) - IOTA Ecosystem Fund ($2 million)
