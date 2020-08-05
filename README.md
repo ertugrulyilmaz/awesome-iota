@@ -23,8 +23,9 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 **IOTA** is the missing puzzle piece for **the Machine Economy** to fully emerge and reach its desired potential. We envision IOTA to be the public, permissionless backbone for the Internet of Things that enables true interoperability between all devices.
 
 * [IOTA](https://iota.org) - Next Generation Blockchain
-* [Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) - The Tangle
-* [Wikipedia](https://en.wikipedia.org/wiki/IOTA_(Distributed_Ledger_Technology)) - https://en.wikipedia.org/wiki/IOTA_(Distributed_Ledger_Technology)
+* [Old Whitepaper](https://iota.org/IOTA_Whitepaper.pdf) - The Tangle
+* [Coordicide Whitepaper](https://files.iota.org/papers/20200120_Coordicide_WP.pdf) - Coordicide a network without central coordinator
+* [Wikipedia](https://en.wikipedia.org/wiki/IOTA_(technology))) - https://en.wikipedia.org/wiki/IOTA_(technology)
 * [A Primer on IOTA](https://blog.iota.org/a-primer-on-iota-with-presentation-e0a6eb2cc621) - A Primer on IOTA (with Presentation)
 * [IOTA China](http://iotachina.com/) - IOTA China 首页
 * [IOTA Italia](http://iotaitalia.com/) - IOTA Italia
@@ -37,14 +38,10 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 *Blogs & Sites about IOTA*
 
 * [IOTA Blog](https://blog.iota.org) - Official Blog of IOTA
-* [All About IOTA](https://aboutiota.info/) - All About IOTA
-* [IOTA Support](http://www.iotasupport.com) - IOTA Support - Your guide to the world of IOTA
-* [The Tangler](http://www.tangleblog.com) - No Bells And Whistles, Just Information
+* [IOTA Archive](https://iotaarchive.com/) - Collection of news, patents, companies and cooperations
 * [IOTA Stack Exchange](https://iota.stackexchange.com/) - IOTA Stack Exchange
-* [IOTA Steemit Trending](https://steemit.com/trending/iota) - IOTA Steemit
-* [TrustedIoTAlliance](https://www.trustediot.org) - Securing IoT products with Blockchain.
-* [IOTA Tips](http://www.iota.tips) - IOTA Tips
-* [IOTA Token](http://iotatoken.io) - IOTA DECENTRALISED INTERNET-OF-THINGS TOKEN
+* [IOTA Projects on Hackster.io](https://hackster.io/iota)
+* [IOTA Support](http://www.iotasupport.com) - IOTA Support - Your guide to the world of IOTA
 * [IOTA News](http://iota.news) - IOTA News
 * [レオンハルトジャパン公式BLOG](http://lhj.hatenablog.jp/entry/iota) - IOTA 日本語情報サイト
 
@@ -52,7 +49,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 
 *Articles about IOTA*
 
-* [IOTA Development Roadmap](https://blog.iota.org/iota-development-roadmap-74741f37ed01) - IOTA Development Roadmap
+* [IOTA Development Roadmap](https://roadmap.iota.org) - IOTA Development Roadmap
 * [insights.ubuntu.com](https://insights.ubuntu.com/2017/02/20/iota-iot-revolutionized-with-a-ledger/) - IOTA: IoT revolutionised with a ledger
 * [blog.iota.org](https://blog.iota.org/automating-machine-transactions-and-building-trust-in-the-4th-industrial-revolution-d3219a157396) - Automating Machine Transactions and Building Trust in the 4th Industrial Revolution
 * [satoshiwatch.com](https://satoshiwatch.com/coins/iota/in-depth/iota-the-winner-takes/) - The Winner Takes it All
@@ -87,21 +84,15 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 
 * [Trinity Wallet](https://github.com/iotaledger/trinity-wallet) - IOTA - Trinity Wallet (Desktop and Mobile)
 
-
-
 ## Tools
 
 *3rd party tools on IOTA*
 
-* [Tangle Blox](https://tangle.blox.pm) - IOTA Tangle
 * [IOTA Tools](http://iota.tools) - IOTA tools
 * [IOTA Price](http://iotaprice.com) - IOTA Price
-* [IOTA Cool](http://iota.cool) - IOTA cool tools
-* [IOTA Balance Lookup](http://iotabalance.com/) - Minimalist IOTA Balance Lookup
-* [tangler.org](http://tangler.org/) - IOTA Tangle Explorer
-* [codebuffet.co](https://iota.codebuffet.co/) - IOTA Tangle Explorer
-* [iotasear.ch](https://iotasear.ch) - IOTA Tangle Explorer
 * [thetangle.org](https://thetangle.org/) - IOTA Tangle Explorer
+* [iotasear.ch](https://iotasear.ch) - IOTA Tangle Explorer
+
 
 ## Developers
 
@@ -109,10 +100,9 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 
 ### Official by the IOTA Foundation
 
-* [Documentation](https://iota.readme.io/v1.1.0/docs) - Documentation of IOTA
+* [Documentation](https://docs.iota.org) - Documentation of IOTA
 * [The IOTA Developer Hub](https://iota.readme.io) - The IOTA Developer Hub
-* [Get Started with IOTA](https://learn.iota.org) - The best way to learn more about IOTA through interactive developer tutorials
-* [The IOTA Developer Hub](https://dev.iota.org) - Start Developing with IOTA
+* [Learning by example: IOTA Workshops](https://blog.iota.org/learning-by-example-iota-workshops-d27495c1000) - The best way to learn more about IOTA through interactive developer tutorials
 * [iota.lib.csharp](https://github.com/iotaledger/iota.lib.csharp) - Iota.Lib.Csharp
 * [iota.lib.py](https://github.com/iotaledger/iota.lib.py) - PyOTA: The IOTA Python API Library
 * [iota.lib.js](https://github.com/iotaledger/iota.lib.js) - IOTA Javascript Library
@@ -124,7 +114,7 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 ### Non Official
 
 #### Libraries
-* [.NET library](https://github.com/Borlay/Borlay.Iota.Library) - .NET library written in C#
+* [.NET library](https://github.com/Felandil/tangle-.net) - .NET library written in C#
 * [IOTA C++ library](https://github.com/thibault-martinez/iota.lib.cpp) A IRI client library in C++ for IRI
 * [IOTA address utilities](https://github.com/pRizz/IOTA-Address-Utilities) A library to working with IOTA addresses
 * [IOTA C Library](https://github.com/th0br0/iota.lib.c) A C library to generate seeds, addresses etc.
@@ -147,8 +137,6 @@ A community driven list of useful IOTA blogs, articles, videos and tools. This i
 * [IRI playbook](https://github.com/nuriel77/iri-playbook) A ansible playbook to setup a IRI full-node
 
 #### Other
-* [Bolero](https://github.com/SemkoDev/bolero.fun) A cross-platform full-node
-* [CarrIOTA Nelson](https://github.com/SemkoDev/nelson.cli) Neighbor discovery for a IRI full-node
 * [IOTAtipbot](https://github.com/normpad/iotatipbot) A tip bot for reddit
 * [Tanglestash](https://github.com/loehnertz/Tanglestash) An algorithm to persist any file onto the tangle of IOTA
 * [Iota-Auth](https://github.com/thedewpoint/iotauth) 2FA built on the Iota Tangle
